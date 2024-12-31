@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**fkaragh/fkaragh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 Currently working on **Angular and .NET Core projects**.  
+- 🌱 Continuously learning new technologies.
+- 💬 Ask me about:  
+  - **Frontend development with Angular and TypeScript**  
+  - **Backend development with .NET Core**  
+  - **Object-oriented programming with C#**
+- 🌐 Interested in:
+  - **Backend development** (RESTful APIs, database design, and server-side logic) 
+  - **Microservices architecture**  
+  - **Containerization with Docker and Kubernetes**  
+  
+## 🌐 Connect with Me
+- 📧 **Email:** fkfurkankara@gmail.com
